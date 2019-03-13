@@ -6,10 +6,6 @@
 	#interactive-picture p {
 		text-align: center
 	}
-	
-	#interactive-picture:hover .display-hover{
-			display: block;
-	}
 		
 	.display-hover {
 			display: none
